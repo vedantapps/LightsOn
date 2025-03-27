@@ -2,7 +2,7 @@
 My submission for the WWDC25 Swift Student Challenge!
 
 ## Status
-Pending
+[Not Accepted](https://x.com/vedantapps/status/1905304761492234594)
 
 ## Hand Tracking Demo (Refine)
 [Hand Tracking Demo](https://youtu.be/_vfYAE1pfxY) 
